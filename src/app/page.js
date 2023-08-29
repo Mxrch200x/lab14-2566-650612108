@@ -48,7 +48,7 @@ export default function FoodReviewPage() {
       <Pagination total={20} color="orange" position="center" mt="md" />
       
       <Text align="center" color="dimmed" my="sm">
-        Copyright © 2023 Artittaya Tieng-arom  650612107
+        Copyright © 2023 Artittaya Tieng-arom  650612108
       </Text>
     </Container>
   );
